@@ -1,6 +1,6 @@
 {
   "displayName": "Marvin Live localhost:8888",
-  "address": "http://localhost:8888/rooms/synergy",
+  "address": "http://localhost:8888/login/synergy",
   "identities": [
     {
       "category": "application",
