@@ -1,0 +1,48 @@
+{
+  "displayName": "Marvin Live localhost:8888",
+  "address": "http://localhost:8888/rooms/synergy",
+  "identities": [
+    {
+      "category": "application",
+      "type": "webapp"
+    },
+    {
+      "category": "group",
+      "type": "design"
+    },
+    {
+      "category": "product",
+      "type": "marvin-live"
+    },
+    {
+      "category": "vendor",
+      "type": "chemaxon"
+    }
+  ],
+  "features": [
+    {
+      "namespace": "synergy/app-info",
+      "attributes": {
+        "url": "http://localhost:8888/synergy/app-info/synergy"
+      }
+    },
+    {
+      "namespace": "synergy/health",
+      "attributes": {
+        "url": "http://localhost:8888/synergy/health"
+      }
+    },
+    {
+      "namespace": "synergy/icon",
+      "attributes": {
+        "url": "http://localhost:8888/css/icon_black.svg"
+      }
+    },
+    {
+      "namespace": "synergy/logout",
+      "attributes": {
+        "url": "http://localhost:8888/logout"
+      }
+    }
+  ]
+}
